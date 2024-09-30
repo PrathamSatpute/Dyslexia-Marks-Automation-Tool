@@ -5,7 +5,7 @@ This project automates the often tedious process of reviewing and adjusting mark
 
 Features:
 
-  Easy-to-use interface for staff to upload files and view necessary adjustments.
-  Highlights discrepancies to aid manual review.
-  Generates reports for further analysis.
-  Built using Python, Pandas, and Tkinter for GUI.
+  *Easy-to-use interface for staff to upload files and view necessary adjustments.
+  *Highlights discrepancies to aid manual review.
+  *Generates reports for further analysis.
+  *Built using Python, Pandas, and Tkinter for GUI.
